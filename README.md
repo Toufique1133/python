@@ -1,2 +1,9 @@
 # python
-appen(a b c )
+ops 
+LIST
+DATA STRUCTUE
+DATA TYPE 
+DATA SCEINCE
+PYTHON BASIC 
+STACK 
+QUEUE
